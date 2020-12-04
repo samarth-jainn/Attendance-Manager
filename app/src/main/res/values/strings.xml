@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AttendanceManager</string>
+    <string name="todo">TODO</string>
+    <string name="attendance_manager">Attendance Manager</string>
+    <string name="background_image">background_image</string>
+    <string name="teacher_login">Teacher Login</string>
+    <string name="student_login">Student Login</string>
+    <array name="classes">
+        <item>select Class</item>>
+        <item>CSE</item>
+        <item>ME</item>
+        <item>CE</item>
+
+
+    </array>
+    <array name="periods">
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+
+    </array>
+
+    <string name="title_activity_login">Login</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="teacher_login1">TEACHER LOGIN</string>
+
+    <string name="admin_login">ADMIN LOGIN</string>
+    <string name="new_user">NEW USER</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="action_sign_up">actionsignup</string>
+    <string name="admin_features">ADMIN FEATURES</string>
+    <string name="create_user">CREATE USER</string>
+    <string name="action_sign_in_short">actionshort</string>
+    <string name="logout">LOGOUT</string>
+</resources>

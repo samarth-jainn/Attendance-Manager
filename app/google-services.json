@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221605340668",
+    "firebase_url": "https://attendance-manager-e4830.firebaseio.com",
+    "project_id": "attendance-manager-e4830",
+    "storage_bucket": "attendance-manager-e4830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221605340668:android:7ffe2dd9129565d195be79",
+        "android_client_info": {
+          "package_name": "com.samarthjain.attendancemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221605340668-1g5778hjjefog52sojmjtoea21o2n5gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5hXeGYp3fs5GzSVqAqR07LdcAozjo5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221605340668-1g5778hjjefog52sojmjtoea21o2n5gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
